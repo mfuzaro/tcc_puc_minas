@@ -1,2 +1,2 @@
-# tcc_puc_minas
-TCC Puc-Minas
+# TCC - PUC-MINAS
+Ciência de Dados e Big Data 
